@@ -1,6 +1,6 @@
 # freedumb
 
-Blog post: https://awsteele.com/2020/11/02/2020-11-02-nitro-enclaves-first-impressions.html
+Blog post: https://awsteele.com/blog/2020/11/02/nitro-enclaves-first-impressions.html
 
 ## Why shouldn't I use this in production?
 
